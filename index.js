@@ -1,3 +1,3 @@
 function greet() {
-  console.log("Hello from remote repo!");
+    console.log("Hello, world from local repo!");
 }
